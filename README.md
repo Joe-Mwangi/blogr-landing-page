@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL]([https://your-solution-url.com](https://joe-mwangi.github.io/blogr-landing-page))
 
 ## My process
 
